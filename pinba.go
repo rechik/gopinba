@@ -1,7 +1,7 @@
 package gopinba
 
 import (
-	"github.com/golang/protobuf"
+	"github.com/golang/protobuf/proto"
 	"fmt"
 	ProtoMessage "github.com/kshvakov/gopinba/Pinba"
 	"net"
